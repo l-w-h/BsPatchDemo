@@ -1,0 +1,10 @@
+//
+// Created by 11320 on 2021/10/31.
+//
+
+#ifndef TEST_COM_LWH_TEST_UTIL_BSPATCHUTIL_H
+#define TEST_COM_LWH_TEST_UTIL_BSPATCHUTIL_H
+
+#include <jni.h>
+
+#endif //TEST_COM_LWH_TEST_UTIL_BSPATCHUTIL_H
